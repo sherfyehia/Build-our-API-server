@@ -19,18 +19,18 @@
     "users": [
         {
             "id": 1,
-            "Frist name": "sherif",
-            "last name": "yehia"
-        },
-        {
-            "id": 2,
-            "Frist name": "ahmed",
-            "last name": "yehia"
+            "FristName": "sherif",
+            "lastName": "yehia"
         },
         {
             "id": 3,
-            "Frist name": "mostafa",
-            "last name": "yehia"
+            "FristName": "edit on name using put",
+            "lastName": "yehia"
+        },
+        {
+            "id": 4,
+            "FristName": "reem",
+            "lastName": "yehia"
         }
     ]
 }
