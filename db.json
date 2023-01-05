@@ -1,36 +1,46 @@
 {
-    "courses": [
-        {
-            "id": 1,
-            "title": "Postman",
-            "description": "Full postman course from zero in Arabic"
-        },
-        {
-            "id": 2,
-            "title": "Selenium",
-            "description": "Full Selenium course from zero in Arabic"
-        },
-        {
-            "id": 3,
-            "title": "Cypress",
-            "description": "Full Cypress course from zero in Arabic"
-        }
-    ],
-    "users": [
-        {
-            "id": 1,
-            "FristName": "sherif",
-            "lastName": "yehia"
-        },
-        {
-            "id": 3,
-            "FristName": "edit on name using put",
-            "lastName": "yehia"
-        },
-        {
-            "id": 4,
-            "FristName": "reem",
-            "lastName": "yehia"
-        }
-    ]
+  "courses": [
+    {
+      "id": 1,
+      "title": "Postman",
+      "description": "Full postman course from zero in Arabic"
+    },
+    {
+      "id": 2,
+      "title": "Selenium",
+      "description": "Full Selenium course from zero in Arabic"
+    },
+    {
+      "id": 3,
+      "title": "Cypress",
+      "description": "Full Cypress course from zero in Arabic"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "FristName1": "sherif",
+      "lastName": "yehia"
+    },
+    {
+      "id": 3,
+      "FristName": "edit on name using put",
+      "lastName": "yehia"
+    },
+    {
+      "id": 4,
+      "FristName": "reem",
+      "lastName": "yehia"
+    },
+    {
+      "id": 6,
+      "FristName": "khaled",
+      "lastName": "mohamed"
+    },
+    {
+      "id": 5,
+      "FristName": "localhost:3000",
+      "lastName": "localhost:3000"
+    }
+  ]
 }

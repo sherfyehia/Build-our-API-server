@@ -1,2 +1,4 @@
-200 >> success
-201 > creating
+# to run server to deploy project json as a localhost
+json-server --watch db.json
+
+
