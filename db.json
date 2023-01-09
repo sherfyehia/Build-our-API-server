@@ -14,6 +14,11 @@
       "id": 3,
       "title": "Cypress",
       "description": "Full Cypress course from zero in Arabic"
+    },
+    {
+      "id": 4,
+      "title": "newcourse auth",
+      "description": "Full newcourse auth course from zero in Arabic"
     }
   ],
   "users": [
