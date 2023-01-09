@@ -41,6 +41,11 @@
       "id": 5,
       "FristName": "localhost:3000",
       "lastName": "localhost:3000"
+    },
+    {
+      "email": "sherif@mail.com",
+      "password": "$2a$10$1mKLImzBIjaEBJIU0oiTzef7AoZ.jnWnwxKcsTUSw0a01mpyEmcWu",
+      "id": 7
     }
   ]
 }

@@ -1,4 +1,5 @@
 # to run server to deploy project json as a localhost
 json-server --watch db.json
 
-
+#to run server with auth server
+json-server db.json -m .\node_modules\json-server-auth\
